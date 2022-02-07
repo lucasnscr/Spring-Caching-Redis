@@ -2,8 +2,6 @@
 
 🚀 Project that simulates the creation of a digital account and transfer between the created accounts.
 
-[Here is the complete code of the project](url)
-
 ## Installation ##
 
 It is necessary to install some items:
